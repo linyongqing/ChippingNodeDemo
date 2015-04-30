@@ -1,0 +1,28 @@
+<UserData>
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.ChippingNodeDemo" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="ChippingNodeDemo iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <PublishSetting Value="VS" />
+        <FrameworkVersion Value="cocos2d-x-3.4rc1" />
+        <IsDebugKeystore Value="True" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="MainScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
